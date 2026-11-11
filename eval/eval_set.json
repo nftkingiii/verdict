@@ -1,0 +1,3888 @@
+{
+ "fetched_at": "2026-11-11T18:39:20.026988+00:00",
+ "base": "https://assize.up.railway.app",
+ "series": [
+  [
+   "ercot",
+   "HB_WEST"
+  ],
+  [
+   "ercot",
+   "HB_NORTH"
+  ],
+  [
+   "caiso",
+   "NP15"
+  ],
+  [
+   "caiso",
+   "SP15"
+  ],
+  [
+   "caiso-rt",
+   "NP15"
+  ],
+  [
+   "caiso-rt",
+   "SP15"
+  ],
+  [
+   "miso",
+   "ILLINOIS.HUB"
+  ],
+  [
+   "miso",
+   "INDIANA.HUB"
+  ],
+  [
+   "nyiso",
+   "N.Y.C."
+  ],
+  [
+   "nyiso",
+   "CAPITL"
+  ]
+ ],
+ "rows": [
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-08T00:00:00Z",
+   "value": 71.37,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-08T01:00:00Z",
+   "value": 66.11,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-08T02:00:00Z",
+   "value": 62.66,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-08T03:00:00Z",
+   "value": 76.4,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-08T04:00:00Z",
+   "value": 77.17,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-08T05:00:00Z",
+   "value": 67.24,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-08T06:00:00Z",
+   "value": 52.83,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-08T07:00:00Z",
+   "value": 43.53,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-08T08:00:00Z",
+   "value": 50.41,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-08T09:00:00Z",
+   "value": 39.52,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-08T10:00:00Z",
+   "value": 38.57,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-08T11:00:00Z",
+   "value": 31.85,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-08T12:00:00Z",
+   "value": 44.56,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-08T13:00:00Z",
+   "value": 83.19,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-08T14:00:00Z",
+   "value": 55.77,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-08T15:00:00Z",
+   "value": 53.05,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-08T16:00:00Z",
+   "value": 55.3,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-08T17:00:00Z",
+   "value": 60.59,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-08T18:00:00Z",
+   "value": 56.45,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-08T19:00:00Z",
+   "value": 60.75,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-08T20:00:00Z",
+   "value": 78.57,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-08T21:00:00Z",
+   "value": 87.87,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-08T22:00:00Z",
+   "value": 103.24,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-08T23:00:00Z",
+   "value": 109.73,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-09T00:00:00Z",
+   "value": 147.35,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-09T01:00:00Z",
+   "value": 120.17,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-09T02:00:00Z",
+   "value": 165.96,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-09T03:00:00Z",
+   "value": 143.95,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-09T04:00:00Z",
+   "value": 86.11,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-09T05:00:00Z",
+   "value": 92.63,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-09T06:00:00Z",
+   "value": 73.55,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-09T07:00:00Z",
+   "value": 62.52,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-09T08:00:00Z",
+   "value": 63.39,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-09T09:00:00Z",
+   "value": 72.36,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-09T10:00:00Z",
+   "value": 57.89,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-09T11:00:00Z",
+   "value": 61.89,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-09T12:00:00Z",
+   "value": 56.36,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-09T13:00:00Z",
+   "value": 59.86,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-09T14:00:00Z",
+   "value": 57.98,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-09T15:00:00Z",
+   "value": 59.94,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-09T16:00:00Z",
+   "value": 47.71,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-09T17:00:00Z",
+   "value": 43.25,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-09T18:00:00Z",
+   "value": 49.97,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-09T19:00:00Z",
+   "value": 55.02,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-09T20:00:00Z",
+   "value": 67.14,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-09T21:00:00Z",
+   "value": 59.31,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-09T22:00:00Z",
+   "value": 66.45,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-09T23:00:00Z",
+   "value": 61.73,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-10T00:00:00Z",
+   "value": 68.34,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-10T01:00:00Z",
+   "value": 80.59,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-10T02:00:00Z",
+   "value": 80.77,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-10T03:00:00Z",
+   "value": 84.62,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-10T04:00:00Z",
+   "value": 73.11,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-10T05:00:00Z",
+   "value": 64.56,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-10T06:00:00Z",
+   "value": 70.01,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-10T07:00:00Z",
+   "value": 72.28,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-10T08:00:00Z",
+   "value": 64.22,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-10T09:00:00Z",
+   "value": 65.13,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-10T10:00:00Z",
+   "value": 51.02,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-10T11:00:00Z",
+   "value": 47.61,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-10T12:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-10T13:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-10T14:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-10T15:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-10T16:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-10T17:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-10T18:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-10T19:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-10T20:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-10T21:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-10T22:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_WEST",
+   "interval_start": "2026-11-10T23:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-08T00:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-08T01:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-08T02:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-08T03:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-08T04:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-08T05:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-08T06:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-08T07:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-08T08:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-08T09:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-08T10:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-08T11:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-08T12:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-08T13:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-08T14:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-08T15:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-08T16:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-08T17:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-08T18:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-08T19:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-08T20:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-08T21:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-08T22:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-08T23:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-09T00:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-09T01:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-09T02:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-09T03:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-09T04:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-09T05:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-09T06:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-09T07:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-09T08:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-09T09:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-09T10:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-09T11:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-09T12:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-09T13:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-09T14:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-09T15:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-09T16:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-09T17:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-09T18:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-09T19:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-09T20:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-09T21:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-09T22:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-09T23:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-10T00:00:00Z",
+   "value": 47.12,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-10T01:00:00Z",
+   "value": 47.86,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-10T02:00:00Z",
+   "value": 43.8,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-10T03:00:00Z",
+   "value": 47.06,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-10T04:00:00Z",
+   "value": 36.08,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-10T05:00:00Z",
+   "value": 27.12,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-10T06:00:00Z",
+   "value": 23.11,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-10T07:00:00Z",
+   "value": 22.59,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-10T08:00:00Z",
+   "value": 22.86,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-10T09:00:00Z",
+   "value": 22.62,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-10T10:00:00Z",
+   "value": 22.95,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-10T11:00:00Z",
+   "value": 25.54,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-10T12:00:00Z",
+   "value": 31.58,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-10T13:00:00Z",
+   "value": 37.72,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-10T14:00:00Z",
+   "value": 27.2,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-10T15:00:00Z",
+   "value": 29.17,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-10T16:00:00Z",
+   "value": 26.87,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-10T17:00:00Z",
+   "value": 24.3,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-10T18:00:00Z",
+   "value": 27.24,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-10T19:00:00Z",
+   "value": 25.04,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-10T20:00:00Z",
+   "value": 29.83,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-10T21:00:00Z",
+   "value": 32.74,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-10T22:00:00Z",
+   "value": 39.4,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "ercot",
+   "node": "HB_NORTH",
+   "interval_start": "2026-11-10T23:00:00Z",
+   "value": 71.98,
+   "market": "real-time",
+   "iso": "ERCOT",
+   "source": "ERCOT public MIS archive, NP6-905-CD"
+  },
+  {
+   "route": "caiso",
+   "node": "NP15",
+   "interval_start": "2026-11-08T00:00:00Z",
+   "value": 57.34746,
+   "market": "day-ahead",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_LMP (DAM)"
+  },
+  {
+   "route": "caiso",
+   "node": "NP15",
+   "interval_start": "2026-11-08T01:00:00Z",
+   "value": 57.75981,
+   "market": "day-ahead",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_LMP (DAM)"
+  },
+  {
+   "route": "caiso",
+   "node": "NP15",
+   "interval_start": "2026-11-08T02:00:00Z",
+   "value": 57.49609,
+   "market": "day-ahead",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_LMP (DAM)"
+  },
+  {
+   "route": "caiso",
+   "node": "NP15",
+   "interval_start": "2026-11-08T03:00:00Z",
+   "value": 57.16555,
+   "market": "day-ahead",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_LMP (DAM)"
+  },
+  {
+   "route": "caiso",
+   "node": "NP15",
+   "interval_start": "2026-11-08T04:00:00Z",
+   "value": 56.1338,
+   "market": "day-ahead",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_LMP (DAM)"
+  },
+  {
+   "route": "caiso",
+   "node": "NP15",
+   "interval_start": "2026-11-08T05:00:00Z",
+   "value": 53.36191,
+   "market": "day-ahead",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_LMP (DAM)"
+  },
+  {
+   "route": "caiso",
+   "node": "NP15",
+   "interval_start": "2026-11-08T06:00:00Z",
+   "value": 48.25005,
+   "market": "day-ahead",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_LMP (DAM)"
+  },
+  {
+   "route": "caiso",
+   "node": "NP15",
+   "interval_start": "2026-11-08T07:00:00Z",
+   "value": 44.92412,
+   "market": "day-ahead",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_LMP (DAM)"
+  },
+  {
+   "route": "caiso",
+   "node": "NP15",
+   "interval_start": "2026-11-08T08:00:00Z",
+   "value": 48.32009,
+   "market": "day-ahead",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_LMP (DAM)"
+  },
+  {
+   "route": "caiso",
+   "node": "NP15",
+   "interval_start": "2026-11-08T09:00:00Z",
+   "value": 46.88385,
+   "market": "day-ahead",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_LMP (DAM)"
+  },
+  {
+   "route": "caiso",
+   "node": "NP15",
+   "interval_start": "2026-11-08T10:00:00Z",
+   "value": 44.71762,
+   "market": "day-ahead",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_LMP (DAM)"
+  },
+  {
+   "route": "caiso",
+   "node": "NP15",
+   "interval_start": "2026-11-08T11:00:00Z",
+   "value": 45.95306,
+   "market": "day-ahead",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_LMP (DAM)"
+  },
+  {
+   "route": "caiso",
+   "node": "SP15",
+   "interval_start": "2026-11-08T00:00:00Z",
+   "value": 55.64234,
+   "market": "day-ahead",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_LMP (DAM)"
+  },
+  {
+   "route": "caiso",
+   "node": "SP15",
+   "interval_start": "2026-11-08T01:00:00Z",
+   "value": 55.90531,
+   "market": "day-ahead",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_LMP (DAM)"
+  },
+  {
+   "route": "caiso",
+   "node": "SP15",
+   "interval_start": "2026-11-08T02:00:00Z",
+   "value": 56.13978,
+   "market": "day-ahead",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_LMP (DAM)"
+  },
+  {
+   "route": "caiso",
+   "node": "SP15",
+   "interval_start": "2026-11-08T03:00:00Z",
+   "value": 56.27051,
+   "market": "day-ahead",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_LMP (DAM)"
+  },
+  {
+   "route": "caiso",
+   "node": "SP15",
+   "interval_start": "2026-11-08T04:00:00Z",
+   "value": 55.91796,
+   "market": "day-ahead",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_LMP (DAM)"
+  },
+  {
+   "route": "caiso",
+   "node": "SP15",
+   "interval_start": "2026-11-08T05:00:00Z",
+   "value": 56.651,
+   "market": "day-ahead",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_LMP (DAM)"
+  },
+  {
+   "route": "caiso",
+   "node": "SP15",
+   "interval_start": "2026-11-08T06:00:00Z",
+   "value": 57.13679,
+   "market": "day-ahead",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_LMP (DAM)"
+  },
+  {
+   "route": "caiso",
+   "node": "SP15",
+   "interval_start": "2026-11-08T07:00:00Z",
+   "value": 57.02463,
+   "market": "day-ahead",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_LMP (DAM)"
+  },
+  {
+   "route": "caiso",
+   "node": "SP15",
+   "interval_start": "2026-11-08T08:00:00Z",
+   "value": 48.30969,
+   "market": "day-ahead",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_LMP (DAM)"
+  },
+  {
+   "route": "caiso",
+   "node": "SP15",
+   "interval_start": "2026-11-08T09:00:00Z",
+   "value": 47.62082,
+   "market": "day-ahead",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_LMP (DAM)"
+  },
+  {
+   "route": "caiso",
+   "node": "SP15",
+   "interval_start": "2026-11-08T10:00:00Z",
+   "value": 45.12,
+   "market": "day-ahead",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_LMP (DAM)"
+  },
+  {
+   "route": "caiso",
+   "node": "SP15",
+   "interval_start": "2026-11-08T11:00:00Z",
+   "value": 46.65726,
+   "market": "day-ahead",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_LMP (DAM)"
+  },
+  {
+   "route": "caiso-rt",
+   "node": "NP15",
+   "interval_start": "2026-11-08T00:00:00Z",
+   "value": 39.27152,
+   "market": "real-time",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_RTPD_LMP (RTPD, 15-minute)"
+  },
+  {
+   "route": "caiso-rt",
+   "node": "NP15",
+   "interval_start": "2026-11-08T01:00:00Z",
+   "value": 45.71136,
+   "market": "real-time",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_RTPD_LMP (RTPD, 15-minute)"
+  },
+  {
+   "route": "caiso-rt",
+   "node": "NP15",
+   "interval_start": "2026-11-08T02:00:00Z",
+   "value": 43.64005,
+   "market": "real-time",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_RTPD_LMP (RTPD, 15-minute)"
+  },
+  {
+   "route": "caiso-rt",
+   "node": "NP15",
+   "interval_start": "2026-11-08T03:00:00Z",
+   "value": 45.81962,
+   "market": "real-time",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_RTPD_LMP (RTPD, 15-minute)"
+  },
+  {
+   "route": "caiso-rt",
+   "node": "NP15",
+   "interval_start": "2026-11-08T04:00:00Z",
+   "value": 44.51053,
+   "market": "real-time",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_RTPD_LMP (RTPD, 15-minute)"
+  },
+  {
+   "route": "caiso-rt",
+   "node": "NP15",
+   "interval_start": "2026-11-08T05:00:00Z",
+   "value": 42.20617,
+   "market": "real-time",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_RTPD_LMP (RTPD, 15-minute)"
+  },
+  {
+   "route": "caiso-rt",
+   "node": "NP15",
+   "interval_start": "2026-11-08T06:00:00Z",
+   "value": 44.73683,
+   "market": "real-time",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_RTPD_LMP (RTPD, 15-minute)"
+  },
+  {
+   "route": "caiso-rt",
+   "node": "NP15",
+   "interval_start": "2026-11-08T07:00:00Z",
+   "value": 40.11629,
+   "market": "real-time",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_RTPD_LMP (RTPD, 15-minute)"
+  },
+  {
+   "route": "caiso-rt",
+   "node": "NP15",
+   "interval_start": "2026-11-08T08:00:00Z",
+   "value": 46.62425,
+   "market": "real-time",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_RTPD_LMP (RTPD, 15-minute)"
+  },
+  {
+   "route": "caiso-rt",
+   "node": "NP15",
+   "interval_start": "2026-11-08T09:00:00Z",
+   "value": 43.51672,
+   "market": "real-time",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_RTPD_LMP (RTPD, 15-minute)"
+  },
+  {
+   "route": "caiso-rt",
+   "node": "NP15",
+   "interval_start": "2026-11-08T10:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "caiso-rt",
+   "node": "NP15",
+   "interval_start": "2026-11-08T11:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "caiso-rt",
+   "node": "SP15",
+   "interval_start": "2026-11-08T00:00:00Z",
+   "value": 38.91981,
+   "market": "real-time",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_RTPD_LMP (RTPD, 15-minute)"
+  },
+  {
+   "route": "caiso-rt",
+   "node": "SP15",
+   "interval_start": "2026-11-08T01:00:00Z",
+   "value": 44.73894,
+   "market": "real-time",
+   "iso": "CAISO",
+   "source": "CAISO OASIS PRC_RTPD_LMP (RTPD, 15-minute)"
+  },
+  {
+   "route": "caiso-rt",
+   "node": "SP15",
+   "interval_start": "2026-11-08T02:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "caiso-rt",
+   "node": "SP15",
+   "interval_start": "2026-11-08T03:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "caiso-rt",
+   "node": "SP15",
+   "interval_start": "2026-11-08T04:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "caiso-rt",
+   "node": "SP15",
+   "interval_start": "2026-11-08T05:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "caiso-rt",
+   "node": "SP15",
+   "interval_start": "2026-11-08T06:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "caiso-rt",
+   "node": "SP15",
+   "interval_start": "2026-11-08T07:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "caiso-rt",
+   "node": "SP15",
+   "interval_start": "2026-11-08T08:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "caiso-rt",
+   "node": "SP15",
+   "interval_start": "2026-11-08T09:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "caiso-rt",
+   "node": "SP15",
+   "interval_start": "2026-11-08T10:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "caiso-rt",
+   "node": "SP15",
+   "interval_start": "2026-11-08T11:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-08T00:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-08T01:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-08T02:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-08T03:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-08T04:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-08T05:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-08T06:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-08T07:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-08T08:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-08T09:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-08T10:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-08T11:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-08T12:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-08T13:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-08T14:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-08T15:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-08T16:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-08T17:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-08T18:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-08T19:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-08T20:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-08T21:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-08T22:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-08T23:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-09T00:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-09T01:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-09T02:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-09T03:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-09T04:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-09T05:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-09T06:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-09T07:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-09T08:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-09T09:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-09T10:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-09T11:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-09T12:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-09T13:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-09T14:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-09T15:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-09T16:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-09T17:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-09T18:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-09T19:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-09T20:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-09T21:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-09T22:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-09T23:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-10T00:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-10T01:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-10T02:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-10T03:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-10T04:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-10T05:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-10T06:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-10T07:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-10T08:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-10T09:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-10T10:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-10T11:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-10T12:00:00Z",
+   "value": 71.11,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-10T13:00:00Z",
+   "value": 43.39,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-10T14:00:00Z",
+   "value": 26.55,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-10T15:00:00Z",
+   "value": 25.45,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-10T16:00:00Z",
+   "value": 25.65,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-10T17:00:00Z",
+   "value": 24.86,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-10T18:00:00Z",
+   "value": 24.36,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-10T19:00:00Z",
+   "value": 24.28,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-10T20:00:00Z",
+   "value": 26.62,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-10T21:00:00Z",
+   "value": 52.17,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-10T22:00:00Z",
+   "value": 121.03,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "ILLINOIS.HUB",
+   "interval_start": "2026-11-10T23:00:00Z",
+   "value": 70.73,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-08T00:00:00Z",
+   "value": 41.95,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-08T01:00:00Z",
+   "value": 38.86,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-08T02:00:00Z",
+   "value": 34,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-08T03:00:00Z",
+   "value": 31.26,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-08T04:00:00Z",
+   "value": 27.58,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-08T05:00:00Z",
+   "value": 29.47,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-08T06:00:00Z",
+   "value": 29.2,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-08T07:00:00Z",
+   "value": 25.72,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-08T08:00:00Z",
+   "value": 26.66,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-08T09:00:00Z",
+   "value": 25.76,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-08T10:00:00Z",
+   "value": 25.45,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-08T11:00:00Z",
+   "value": 29.06,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-08T12:00:00Z",
+   "value": 31.36,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-08T13:00:00Z",
+   "value": 21.57,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-08T14:00:00Z",
+   "value": 17.9,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-08T15:00:00Z",
+   "value": 17.36,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-08T16:00:00Z",
+   "value": 17.27,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-08T17:00:00Z",
+   "value": 15.03,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-08T18:00:00Z",
+   "value": 13.49,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-08T19:00:00Z",
+   "value": 12.21,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-08T20:00:00Z",
+   "value": 17.02,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-08T21:00:00Z",
+   "value": 28.91,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-08T22:00:00Z",
+   "value": 62.03,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-08T23:00:00Z",
+   "value": 49.8,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-09T00:00:00Z",
+   "value": 34.41,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-09T01:00:00Z",
+   "value": 33.39,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-09T02:00:00Z",
+   "value": 31.53,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-09T03:00:00Z",
+   "value": 30.98,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-09T04:00:00Z",
+   "value": 30,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-09T05:00:00Z",
+   "value": 28.84,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-09T06:00:00Z",
+   "value": 27.75,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-09T07:00:00Z",
+   "value": 27.3,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-09T08:00:00Z",
+   "value": 28.04,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-09T09:00:00Z",
+   "value": 30.27,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-09T10:00:00Z",
+   "value": 36.69,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-09T11:00:00Z",
+   "value": 54.82,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-09T12:00:00Z",
+   "value": 73.64,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-09T13:00:00Z",
+   "value": 31.49,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-09T14:00:00Z",
+   "value": 23.31,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-09T15:00:00Z",
+   "value": 23.6,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-09T16:00:00Z",
+   "value": 25.02,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-09T17:00:00Z",
+   "value": 23.1,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-09T18:00:00Z",
+   "value": 21.64,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-09T19:00:00Z",
+   "value": 22.3,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-09T20:00:00Z",
+   "value": 24.94,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-09T21:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-09T22:00:00Z",
+   "value": 94.18,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-09T23:00:00Z",
+   "value": 57.65,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-10T00:00:00Z",
+   "value": 40.32,
+   "market": "day-ahead",
+   "iso": "MISO",
+   "source": "MISO Day-Ahead Market ExPost LMPs (da_expost_lmp)"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-10T01:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-10T02:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-10T03:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-10T04:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-10T05:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-10T06:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-10T07:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-10T08:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-10T09:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-10T10:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-10T11:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-10T12:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-10T13:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-10T14:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-10T15:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-10T16:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-10T17:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-10T18:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-10T19:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-10T20:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-10T21:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-10T22:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "miso",
+   "node": "INDIANA.HUB",
+   "interval_start": "2026-11-10T23:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-08T00:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-08T01:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-08T02:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-08T03:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-08T04:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-08T05:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-08T06:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-08T07:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-08T08:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-08T09:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-08T10:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-08T11:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-08T12:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-08T13:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-08T14:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-08T15:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-08T16:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-08T17:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-08T18:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-08T19:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-08T20:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-08T21:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-08T22:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-08T23:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-09T00:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-09T01:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-09T02:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-09T03:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-09T04:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-09T05:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-09T06:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-09T07:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-09T08:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-09T09:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-09T10:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-09T11:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-09T12:00:00Z",
+   "value": 46.01,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-09T13:00:00Z",
+   "value": 40.55,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-09T14:00:00Z",
+   "value": 33.99,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-09T15:00:00Z",
+   "value": 34.12,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-09T16:00:00Z",
+   "value": 33.43,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-09T17:00:00Z",
+   "value": 34.1,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-09T18:00:00Z",
+   "value": 36.72,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-09T19:00:00Z",
+   "value": 38.52,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-09T20:00:00Z",
+   "value": 41.93,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-09T21:00:00Z",
+   "value": 51.57,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-09T22:00:00Z",
+   "value": 61.01,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-09T23:00:00Z",
+   "value": 60.07,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-10T00:00:00Z",
+   "value": 48.52,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-10T01:00:00Z",
+   "value": 38.68,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-10T02:00:00Z",
+   "value": 35.64,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-10T03:00:00Z",
+   "value": 32.71,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-10T04:00:00Z",
+   "value": 31.09,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-10T05:00:00Z",
+   "value": 30.99,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-10T06:00:00Z",
+   "value": 28.82,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-10T07:00:00Z",
+   "value": 29.11,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-10T08:00:00Z",
+   "value": 26.47,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-10T09:00:00Z",
+   "value": 28.08,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-10T10:00:00Z",
+   "value": 31.06,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-10T11:00:00Z",
+   "value": 40.45,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-10T12:00:00Z",
+   "value": 47.9,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-10T13:00:00Z",
+   "value": 39.1,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-10T14:00:00Z",
+   "value": 32.07,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-10T15:00:00Z",
+   "value": 31.03,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-10T16:00:00Z",
+   "value": 30,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-10T17:00:00Z",
+   "value": 30.26,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-10T18:00:00Z",
+   "value": 30.08,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-10T19:00:00Z",
+   "value": 30.95,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-10T20:00:00Z",
+   "value": 34.05,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-10T21:00:00Z",
+   "value": 45.41,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-10T22:00:00Z",
+   "value": 57.19,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "N.Y.C.",
+   "interval_start": "2026-11-10T23:00:00Z",
+   "value": 46.5,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-08T00:00:00Z",
+   "value": 38.88,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-08T01:00:00Z",
+   "value": 34.32,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-08T02:00:00Z",
+   "value": 32.72,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-08T03:00:00Z",
+   "value": 31.88,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-08T04:00:00Z",
+   "value": 30.71,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-08T05:00:00Z",
+   "value": 29.83,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-08T06:00:00Z",
+   "value": 28.13,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-08T07:00:00Z",
+   "value": 28.15,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-08T08:00:00Z",
+   "value": 27,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-08T09:00:00Z",
+   "value": 27.79,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-08T10:00:00Z",
+   "value": 28.08,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-08T11:00:00Z",
+   "value": 27.79,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-08T12:00:00Z",
+   "value": 28.92,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-08T13:00:00Z",
+   "value": 27.05,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-08T14:00:00Z",
+   "value": 25.16,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-08T15:00:00Z",
+   "value": 24.69,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-08T16:00:00Z",
+   "value": 23.89,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-08T17:00:00Z",
+   "value": 23.18,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-08T18:00:00Z",
+   "value": 22.98,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-08T19:00:00Z",
+   "value": 26.75,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-08T20:00:00Z",
+   "value": 30.4,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-08T21:00:00Z",
+   "value": 36.09,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-08T22:00:00Z",
+   "value": 45.74,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-08T23:00:00Z",
+   "value": 38.97,
+   "market": "day-ahead",
+   "iso": "NYISO",
+   "source": "NYISO Day-Ahead Market zonal LBMP (damlbmp_zone.csv)"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-09T00:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-09T01:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-09T02:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-09T03:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-09T04:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-09T05:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-09T06:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-09T07:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-09T08:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-09T09:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-09T10:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-09T11:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-09T12:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-09T13:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-09T14:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-09T15:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-09T16:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-09T17:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-09T18:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-09T19:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-09T20:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-09T21:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-09T22:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-09T23:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-10T00:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-10T01:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-10T02:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-10T03:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-10T04:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-10T05:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-10T06:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-10T07:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-10T08:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-10T09:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-10T10:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-10T11:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-10T12:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-10T13:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-10T14:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-10T15:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-10T16:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-10T17:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-10T18:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-10T19:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-10T20:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-10T21:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-10T22:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  },
+  {
+   "route": "nyiso",
+   "node": "CAPITL",
+   "interval_start": "2026-11-10T23:00:00Z",
+   "value": null,
+   "error": "unreachable"
+  }
+ ]
+}

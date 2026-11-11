@@ -1,0 +1,182 @@
+{
+ "exact": {
+  "n": 130,
+  "Exact": 10000,
+  "AbsTol $0.50": 10000,
+  "AbsTol $1.00": 10000,
+  "AbsTol $2.00": 10000,
+  "RelTol 1% (100bps)": 10000,
+  "RelTol 5% (500bps)": 10000
+ },
+ "exact as nested JSON": {
+  "n": 130,
+  "Exact": 10000,
+  "AbsTol $0.50": 10000,
+  "AbsTol $1.00": 10000,
+  "AbsTol $2.00": 10000,
+  "RelTol 1% (100bps)": 10000,
+  "RelTol 5% (500bps)": 10000
+ },
+ "exact as stringified JSON": {
+  "n": 130,
+  "Exact": 10000,
+  "AbsTol $0.50": 10000,
+  "AbsTol $1.00": 10000,
+  "AbsTol $2.00": 10000,
+  "RelTol 1% (100bps)": 10000,
+  "RelTol 5% (500bps)": 10000
+ },
+ "'$1,234.50' string (2dp)": {
+  "n": 130,
+  "Exact": 8308,
+  "AbsTol $0.50": 9996,
+  "AbsTol $1.00": 9998,
+  "AbsTol $2.00": 9999,
+  "RelTol 1% (100bps)": 10000,
+  "RelTol 5% (500bps)": 10000
+ },
+ "rounded to 0.01": {
+  "n": 130,
+  "Exact": 8308,
+  "AbsTol $0.50": 9996,
+  "AbsTol $1.00": 9998,
+  "AbsTol $2.00": 9999,
+  "RelTol 1% (100bps)": 10000,
+  "RelTol 5% (500bps)": 10000
+ },
+ "rounded to $1": {
+  "n": 130,
+  "Exact": 77,
+  "AbsTol $0.50": 7548,
+  "AbsTol $1.00": 8774,
+  "AbsTol $2.00": 9387,
+  "RelTol 1% (100bps)": 7422,
+  "RelTol 5% (500bps)": 9484
+ },
+ "off by +$0.25": {
+  "n": 130,
+  "Exact": 0,
+  "AbsTol $0.50": 7500,
+  "AbsTol $1.00": 8750,
+  "AbsTol $2.00": 9375,
+  "RelTol 1% (100bps)": 7367,
+  "RelTol 5% (500bps)": 9473
+ },
+ "off by +$1": {
+  "n": 130,
+  "Exact": 0,
+  "AbsTol $0.50": 0,
+  "AbsTol $1.00": 5000,
+  "AbsTol $2.00": 7500,
+  "RelTol 1% (100bps)": 1288,
+  "RelTol 5% (500bps)": 7878
+ },
+ "off by +0.5%": {
+  "n": 130,
+  "Exact": 0,
+  "AbsTol $0.50": 7253,
+  "AbsTol $1.00": 8626,
+  "AbsTol $2.00": 9313,
+  "RelTol 1% (100bps)": 7505,
+  "RelTol 5% (500bps)": 9501
+ },
+ "off by +2%": {
+  "n": 130,
+  "Exact": 0,
+  "AbsTol $0.50": 1213,
+  "AbsTol $1.00": 4670,
+  "AbsTol $2.00": 7253,
+  "RelTol 1% (100bps)": 4,
+  "RelTol 5% (500bps)": 8001
+ },
+ "off by +10%": {
+  "n": 130,
+  "Exact": 0,
+  "AbsTol $0.50": 0,
+  "AbsTol $1.00": 0,
+  "AbsTol $2.00": 561,
+  "RelTol 1% (100bps)": 0,
+  "RelTol 5% (500bps)": 0
+ },
+ "half the price": {
+  "n": 130,
+  "Exact": 0,
+  "AbsTol $0.50": 0,
+  "AbsTol $1.00": 0,
+  "AbsTol $2.00": 0,
+  "RelTol 1% (100bps)": 0,
+  "RelTol 5% (500bps)": 0
+ },
+ "wrong units ($/kWh)": {
+  "n": 130,
+  "Exact": 0,
+  "AbsTol $0.50": 0,
+  "AbsTol $1.00": 0,
+  "AbsTol $2.00": 0,
+  "RelTol 1% (100bps)": 0,
+  "RelTol 5% (500bps)": 0
+ },
+ "wrong units (x1000)": {
+  "n": 130,
+  "Exact": 0,
+  "AbsTol $0.50": 0,
+  "AbsTol $1.00": 0,
+  "AbsTol $2.00": 0,
+  "RelTol 1% (100bps)": 0,
+  "RelTol 5% (500bps)": 0
+ },
+ "sign flipped": {
+  "n": 130,
+  "Exact": 0,
+  "AbsTol $0.50": 0,
+  "AbsTol $1.00": 0,
+  "AbsTol $2.00": 0,
+  "RelTol 1% (100bps)": 0,
+  "RelTol 5% (500bps)": 0
+ },
+ "wrong interval (next hour)": {
+  "n": 125,
+  "Exact": 0,
+  "AbsTol $0.50": 849,
+  "AbsTol $1.00": 1542,
+  "AbsTol $2.00": 2681,
+  "RelTol 1% (100bps)": 746,
+  "RelTol 5% (500bps)": 2962
+ },
+ "wrong interval (prev hour)": {
+  "n": 125,
+  "Exact": 0,
+  "AbsTol $0.50": 849,
+  "AbsTol $1.00": 1542,
+  "AbsTol $2.00": 2681,
+  "RelTol 1% (100bps)": 749,
+  "RelTol 5% (500bps)": 2964
+ },
+ "wrong node (same hour)": {
+  "n": 26,
+  "Exact": 0,
+  "AbsTol $0.50": 1427,
+  "AbsTol $1.00": 2460,
+  "AbsTol $2.00": 3414,
+  "RelTol 1% (100bps)": 1377,
+  "RelTol 5% (500bps)": 3706
+ },
+ "wrong market (DAM vs RT)": {
+  "n": 10,
+  "Exact": 0,
+  "AbsTol $0.50": 0,
+  "AbsTol $1.00": 152,
+  "AbsTol $2.00": 856,
+  "RelTol 1% (100bps)": 0,
+  "RelTol 5% (500bps)": 1204
+ },
+ "malformed / invalid / out of range": {
+  "n": 26,
+  "Exact": 0,
+  "AbsTol $0.50": 0,
+  "AbsTol $1.00": 0,
+  "AbsTol $2.00": 0,
+  "RelTol 1% (100bps)": 0,
+  "RelTol 5% (500bps)": 0
+ }
+}
