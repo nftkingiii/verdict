@@ -68,4 +68,29 @@ this intent (no active module), so there is no benchmark against one.
 
 `dist/verdict_adapter.wasm`: 2149 bytes, 0 imports,
 sha256 `26e3935f1b637eb065e3ed3a6c446ff891c0b400251cd3ad1dacd5cf46ff3a71`.
-Registration uses keccak256 of the same bytes (`cast keccak`), not sha256.
+keccak256 `0x24d46f3ab033297537b75a7b806ba78c8c5b11232f57c8290abf6379ea22fdcb` (registration uses this, not sha256).
+
+## Runnable endpoint
+
+`server/` is a small dependency-light Node service (Node 20+, `node:http`, `@noble/hashes` for keccak256)
+that runs these exact bytes, as Anjoman's registration requires.
+
+- It refuses to start unless the file's sha256 matches the pinned value and the module has zero imports.
+- `POST /` (also `/score`) takes `{"batch":[{"ground_truth_value","miner_value","spec":[code,tolerance]}]}`,
+  up to 100 items, and returns `{"results":[{"score":N}]}` in the same order, with N in basis points.
+  A module refusal (-1) or trap becomes `{"error":"..."}` for that item.
+  - Integers may be JSON numbers or decimal strings, since the docs don't say which, and a 4xx rejects
+    a registration outright.
+  - Values are parsed as BigInt so 64-bit values stay exact.
+- `GET /verdict_adapter.wasm` serves the same bytes, so one deployment hosts both the file link and the
+  runnable link. `GET /health` reports both hashes.
+- Body limit 2 MiB (docs ask for at least 1 MiB), with a per-IP limit of 120 requests per minute.
+  Responses stay well under the 64 KiB cap.
+- `npm start` runs it (PORT from env). `npm test` covers these cases (11 tests):
+  - Endpoint and direct wasm calls agree on 11,760 eval cases, with 0 bps deviation from the reference rule.
+  - 64-bit extremes.
+  - Batch limits.
+  - 20 malformed bodies, each answered 400.
+  - Number and string forms of the same integers score the same.
+  - Oversized bodies get 413, and the rate limit returns 429.
+  - A wrong-hash file is refused at startup.
